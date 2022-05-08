@@ -29,11 +29,11 @@
   padding: 10px 10px 13px 10px;
 }
 
-.menu{
+.menu {
   padding: 10px;
 }
 
-.menu-link{
+.menu-link {
   color: var(--color-gray);
   text-decoration: none;
   text-transform: uppercase;
